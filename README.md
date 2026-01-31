@@ -1,8 +1,8 @@
 👋 Hi, I'm Faith Mmesomachukwu Kelechi
 
-I'm a Fullstack Software Engineer, Data & ML Researcher, and Problem-Solver passionate about building technology that improves lives, strengthens communities, and drives innovation.
+I'm a Fullstack Software Engineer, Data & ML Researcher, and Problem Solver passionate about building technology that improves lives, strengthens communities, and drives innovation.
 
-I enjoy working across frontend, backend, and data-driven systems, creating real-world solutions that are clean, scalable, and impactful. My work spans across web development, machine learning, environmental data analytics, and community centered digital tools.
+I enjoy working across frontend, backend, and data driven systems, creating real-world solutions that are clean, scalable, and impactful. My work spans across web development, machine learning, environmental data analytics, and community centered digital tools.
 
 🚀 What I Do
 
@@ -14,7 +14,7 @@ I enjoy working across frontend, backend, and data-driven systems, creating real
 
 🤝 Mentor students and support communities through leadership and tech initiatives
 
-🧩 Solve complex social, technical, and environmental problems with data-driven solutions
+🧩 Solve complex social, technical, and environmental problems with data driven solutions
 
 🏆 Highlights
 
